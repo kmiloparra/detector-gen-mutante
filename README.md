@@ -39,3 +39,7 @@ colocar "detector.gen.mutante.aws.function.StartProcessRequestHandler"
 }
 
 ```
+
+## Arquitectura
+
+![imagen perdida] (https://ibb.co/cNYByRM)
